@@ -1,4 +1,4 @@
 fresnel-prop
 ============
 
-Optics Functions
+Contains Optics Functions
